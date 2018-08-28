@@ -1,0 +1,2 @@
+# ssmdemo
+create ssm project
